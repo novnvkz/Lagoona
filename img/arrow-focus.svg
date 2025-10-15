@@ -1,0 +1,17 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#E5E5E5"/>
+<g id="UI-Kit">
+<rect width="1438" height="2361" transform="translate(-524 -626)" fill="#F1F1F1"/>
+<g id="Component 6">
+<g id="link_color_status = focus">
+<g id="Frame 12">
+<g id="keyboard_tab">
+<path id="Vector" d="M11.59 7.41L15.17 11H1V13H15.17L11.58 16.59L13 18L19 12L13 6L11.59 7.41ZM20 6V18H22V6H20Z" fill="#CC9933"/>
+</g>
+<rect x="-4.5" y="-4.5" width="164" height="33" stroke="#CC9933"/>
+</g>
+</g>
+<rect x="-24.5" y="-140.5" width="201" height="237" rx="4.5" stroke="#999999" stroke-dasharray="10 5"/>
+</g>
+</g>
+</svg>
